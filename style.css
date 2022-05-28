@@ -1,19 +1,18 @@
 body {
   margin: 0;
   font-family: Helvetica, Arial, sans-serif;
-	background-color: #FFB6C1;
+	background-color: #B0C4DE;
 }
 
 header {
 	height: 140px;
-	background-color: #403933;
-	background-image:url(images/backgrounds/subtle_brown_mini_waves.png);
+	background-color: #F0F8FF;
 }
 
 .logo {
   font-family: 'Times New Roman', cursive;
-  font-size: 80px;
-  color: #c5c0b8;
+  font-size: 65px;
+  color: #4682B4;
   text-align: center;
   margin: 0;
   padding: 20px 0 0 0;
@@ -21,14 +20,14 @@ header {
 
 header h2 {
 	font-family: 'Times New Roman', serif;
-	color: #e3e1dc;
+	color: #4682B4;
 	margin: 0px;
-	font-size: 18px;
+	font-size: 20px;
 	text-align: center;
 }
 
 footer {
-	background-color: #403933;
+	background-color: #F0F8FF;
 }
 
 section {
@@ -36,42 +35,36 @@ section {
   margin: 80px 0;
 }
 
-/* -------  Type ------- */
-
 h1, h2, h3 {
   font-family: 'Times New Roman', sans-serif;
-	color: #403933;
+	color: #F0F8FF;
   text-align: center;
 }
 
-h1 { font-size: 28px; }
-h2 { font-size: 26px; }
-h3 { font-size: 18px; }
+h1, h2, h3
+{ font-size: 28px; }
 
 p, li {
  font-family: 'Times New Roman', sans-serif;
  margin-bottom: 0;
+  color: #4682B4;
 }
 
 a {
 	font-weight: 700;
-	text-decoration: none;	
+	text-decoration: none;
 }
-a:link { color: #38786a; }
 
-em {
-  font-weight: bold;
-  font-style: normal;
-}
+a:link { color: #191970;}
 
 footer p {
-	color: #fff;	
+	color: #4682B4;	
 	text-align: center;
-  padding: 30px;
+  padding: 42px;
   margin: 0;
 }
 
 .border-top {
   padding-top: 80px;
-  border-top: 2px solid #403933;
+  border-top: 2px solid #4682B4;
 }
