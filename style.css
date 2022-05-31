@@ -18,6 +18,13 @@ header {
   padding: 20px 0 0 0;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 header h2 {
 	font-family: 'Times New Roman', serif;
 	color: #4682B4;
