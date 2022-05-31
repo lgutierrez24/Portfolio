@@ -1,18 +1,18 @@
 body {
   margin: 0;
-  font-family: "Times New Roman", Arial;
-	background-color: #B0C4DE;
+  font-family: Georgia;
+	background-color: #000000;
 }
 
 header {
 	height: 140px;
-	background-color: #F0F8FF;
+	background-color: #ffffff;
 }
 
 .logo {
-  font-family: 'Times New Roman', cursive;
+  font-family: Georgia;
   font-size: 65px;
-  color: #4682B4;
+  color: #000000;
   text-align: center;
   margin: 0;
   padding: 20px 0 0 0;
@@ -26,15 +26,15 @@ header {
 }
 
 header h2 {
-	font-family: 'Times New Roman', serif;
-	color: #4682B4;
+	font-family: Georgia;
+	color: #000000;
 	margin: 0px;
 	font-size: 20px;
 	text-align: center;
 }
 
 footer {
-	background-color: #F0F8FF;
+	background-color: #ffffff;
 }
 
 section {
@@ -43,8 +43,8 @@ section {
 }
 
 h1, h2, h3 {
-  font-family: 'Times New Roman', sans-serif;
-	color: #F0F8FF;
+  font-family: Georgia;
+	color: #ffffff;
   text-align: center;
 }
 
@@ -52,9 +52,9 @@ h1, h2, h3
 { font-size: 28px; }
 
 p, li {
- font-family: 'Times New Roman', sans-serif;
+ font-family: Georgia;
  margin-bottom: 0;
-  color: #4682B4;
+  color: #ffffff;
 }
 
 a {
@@ -62,10 +62,10 @@ a {
 	text-decoration: none;
 }
 
-a:hover { color: #191970;}
+a:hover { color: #FF00FF;}
 
 footer p {
-	color: #4682B4;	
+	color: #000000;	
 	text-align: center;
   padding: 42px;
   margin: 0;
@@ -73,5 +73,5 @@ footer p {
 
 .border-top {
   padding-top: 80px;
-  border-top: 2px solid #4682B4;
+  border-top: 2px solid #ffffff;
 }
