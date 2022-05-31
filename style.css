@@ -44,12 +44,10 @@ section {
 
 h1, h2, h3 {
   font-family: Georgia;
-	color: #ffffff;
+  color: #ffffff;
   text-align: center;
+  font-size: 28px;
 }
-
-h1, h2, h3
-{ font-size: 28px; }
 
 p, li {
  font-family: Georgia;
@@ -62,7 +60,9 @@ a {
 	text-decoration: none;
 }
 
-a:hover { color: #FF00FF;}
+a:hover { color: #00FF00;}
+
+a:visited{ color: #FF00FF;}
 
 footer p {
 	color: #000000;	
