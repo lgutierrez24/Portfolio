@@ -65,8 +65,8 @@ a {
 a:hover { color: #00FF00;}
 
 a:visited{ 
-	background-color: #FF5733; /* I want to add a background color to the link when the link is clicked */
-	color: #FF00FF;}
+	/* changed the color so it wouldn't be so dark when the link was visited */
+	color: #FF5733 ;}
 
 footer p {
 	color: #000000;	
