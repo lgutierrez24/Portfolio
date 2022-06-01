@@ -10,6 +10,10 @@ header {
 	height: 140px;
 	background-color: #ffffff;
 }
+/* newly added to the style sheet */ 
+article {
+	text-align: center;
+}
 
 .logo {
  	 font-family: Georgia;
